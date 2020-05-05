@@ -20,7 +20,7 @@ For any support related query, please visit our official support forum.
 Clone the repository and the submodules.
 
 ```
-$> git clone --recursive git@github.com:navjottomer/Osclass.git
+$> git clone --recursive git@github.com:mindstellar/Osclass.git
 ```
 ## Pull Request
 Want to help create a pull request from you clone, just make sure of few things
@@ -42,5 +42,5 @@ Want to help create a pull request from you clone, just make sure of few things
 [documentation]: https://osclass.gitbook.io/osclass-docs/
 [support-forum]: https://osclass.discourse.group
 [original-code]: https://github.com/osclass/Osclass
-[code]: https://github.com/navjottomer/Osclass
+[code]: https://github.com/mindstellar/Osclass
 [license]: http://www.apache.org/licenses/LICENSE-2.0
